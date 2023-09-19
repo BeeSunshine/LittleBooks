@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2287183-1e2d-46c2-a11c-f3e9dd1867db</dc:identifier>
+        <dc:title>龙族全套 共5册（龙族1火之晨曦+龙族2悼亡者之瞳+龙族3黑月之潮上册+龙族3黑月之潮中册+龙族3黑月之潮下册）</dc:title>
+        <dc:creator opf:file-as="江南" opf:role="aut">江南</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-10T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">bab5cac1-d3f8-4e57-87c0-f56c354c38eb</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>益书网www.kindbook.cn</dc:subject>
+        <meta content="{&quot;江南&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-08-28T10:55:50.159000+00:00" name="calibre:timestamp"/>
+        <meta content="龙族全套 共5册（龙族1火之晨曦+龙族2悼亡者之瞳+龙族3黑月之潮上册+龙族3黑月之潮中册+龙族3黑月之潮下册）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
